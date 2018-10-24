@@ -2,5 +2,5 @@
 
 ## Steps for Installation
 ```
-git clone 
+git clone https://github.com/MitraKumar/Database.git
 ```
